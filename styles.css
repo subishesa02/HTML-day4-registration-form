@@ -1,0 +1,19 @@
+#header{
+    background-color: bisque;
+}
+
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 30%;
+    background-color: #61acc9;
+}
+#main{
+    flex:70%;
+    background-color: #aaded3;
+}
+#footer{
+    background-color: black;
+    color: aliceblue;
+}
